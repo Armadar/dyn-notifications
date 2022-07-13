@@ -1,0 +1,22 @@
+{
+  "name": "@dynam0/notificati0ns",
+  "version": "1.0.0",
+  "description": "For testing the Dynamo Notifications final web resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armadar/dyn-notifications.git"
+  },
+  "keywords": [
+    "dynam0"
+  ],
+  "author": "Jesus Alviño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armadar/dyn-notifications/issues"
+  },
+  "homepage": "https://github.com/Armadar/dyn-notifications#readme"
+}
